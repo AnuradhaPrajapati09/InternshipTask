@@ -1,4 +1,4 @@
-# Data Science Internship Portfolio 🚀
+# Data Science Internship 🚀
 
 Welcome to my Data Science Internship repository! This project contains a series of data analytics and machine learning tasks designed to solve real-world problems using structured and unstructured datasets. 
 
