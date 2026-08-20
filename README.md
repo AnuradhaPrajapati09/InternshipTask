@@ -38,4 +38,4 @@ Welcome to my Data Science Internship repository! This project contains a series
 
 1. Clone this repository to your local machine:
    ```bash
-  git clone https://github.com/AnuradhaPrajapati09/InternshipTask.git
+   git clone https://github.com/AnuradhaPrajapati09/InternshipTask.git
