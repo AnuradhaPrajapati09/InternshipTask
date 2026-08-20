@@ -28,11 +28,10 @@ Welcome to my Data Science Internship repository! This project contains a series
 * **Objective:** Build a Decision Tree classifier to predict whether a customer will complete a purchase based on demographic and behavioral web data.
 * **Execution:** Applied Label Encoding to categorical features. Trained and evaluated a Decision Tree model (optimized with `max_depth` to prevent overfitting), generating a classification report and a confusion matrix to evaluate model accuracy.
 
-### Task 04: Beauty Product Sentiment Analysis
-* **Dataset:** Sephora Skincare and Beauty Reviews
-* **Objective:** Analyze and visualize sentiment patterns in consumer reviews to understand public opinion toward specific brands.
-* **Execution:** Merged product information with raw review text. Utilized `TextBlob` to extract sentiment polarity scores, categorized them (Positive, Neutral, Negative), and visualized the overall sentiment distribution as well as a brand-specific sentiment breakdown.
-
+### Task 04: Social Media Sentiment Analysis
+* **Dataset:** Twitter US Airline Sentiment
+* **Objective:** Analyze and visualize sentiment patterns in social media data to understand public opinion toward specific airline brands.
+* **Execution:** Processed over 14,000 customer tweets. Utilized `TextBlob` to extract sentiment polarity scores directly from the unstructured text, categorized them, and visualized the overall public sentiment alongside a direct brand-by-brand comparison.
 ---
 
 ## ⚙️ How to Run the Code
